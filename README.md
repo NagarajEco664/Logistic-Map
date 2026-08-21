@@ -21,7 +21,7 @@
   </li>
 
   <li style="margin-bottom: 16px;">
-    <span style="font-size: 13px;">From an NBER macroeconomic lens, this non-linear path captures diminishing returns to public capital investment in energy networks, signaling that future productivity gains require policy shifts toward grid reliability rather than raw network expansion.</span>
+    <span style="font-size: 13px;">this non-linear path captures diminishing returns to public capital investment in energy networks, signaling that future productivity gains require policy shifts toward grid reliability rather than raw network expansion.</span>
   </li>
 </ul>
 
