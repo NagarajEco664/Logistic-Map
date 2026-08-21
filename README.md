@@ -28,7 +28,7 @@
 <p style="margin-top: 20px; margin-bottom: 10px; font-size: 13px;">A graph produced is here:</p>
 
 <div style="background: #ffffff; padding: 15px; border-radius: 6px; border: 1px solid #30363d; text-align: center;">
-  <img src="elec graph.pdf" alt="India Electrification Phase Portrait" style="max-width: 100%; height: auto;" />
+  <img src="elec graph.png" alt="India Electrification Phase Portrait" style="max-width: 100%; height: auto;" />
 </div>
 
 </div>
