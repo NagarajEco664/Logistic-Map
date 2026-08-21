@@ -20,9 +20,15 @@
     <span style="font-size: 13px;">The red parabola acts as a theoretical transition function, demonstrating that marginal gains in infrastructure coverage decelerate predictably as the economy hits structural ceilings dictated by remote terrain and last-mile connectivity costs.</span>
   </li>
 
-  <li style="margin-bottom: 0;">
+  <li style="margin-bottom: 16px;">
     <span style="font-size: 13px;">From an NBER macroeconomic lens, this non-linear path captures diminishing returns to public capital investment in energy networks, signaling that future productivity gains require policy shifts toward grid reliability rather than raw network expansion.</span>
   </li>
 </ul>
+
+<p style="margin-top: 20px; margin-bottom: 10px; font-size: 13px;">A graph produced is here:</p>
+
+<div style="background: #ffffff; padding: 15px; border-radius: 6px; border: 1px solid #30363d; text-align: center;">
+  <img src="elec graph.pdf" alt="India Electrification Phase Portrait" style="max-width: 100%; height: auto;" />
+</div>
 
 </div>
